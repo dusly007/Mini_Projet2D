@@ -19,6 +19,12 @@ public class MouvementRobot : MonoBehaviour
     private void Update()
     {
         // reconstruire la lecture des commandes et la direction normalisée.
+
+        if (!commandesActives)
+        {
+            animator.SetInteger("DirectionAnim", 0);
+            return;
+        }
  
         float horizontal = Input.GetAxisRaw("Horizontal");
         float vertical = Input.GetAxisRaw("Vertical");
@@ -65,7 +71,21 @@ public class MouvementRobot : MonoBehaviour
         corps.MovePosition(corps.position + direction * vitesse * Time.fixedDeltaTime);
  
     }
- 
+
+    private bool commandesActives = true;
+
+    public void DesactiverCommandes()
+    {
+        commandesActives = false;
+        direction = Vector2.zero;
+        corps.linearVelocity = Vector2.zero;
+    }
+
+    public void ActiverCommandes()
+    {
+        commandesActives = true;
+    }
+    
     /*
      * BANQUE DE LIGNES — GROUPE B
      * Les lignes ne sont pas dans le bon ordre.

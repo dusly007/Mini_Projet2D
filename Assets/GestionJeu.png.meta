@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 341bef81bb44bde4889a12516afbabb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8779011512641381181
+    second: GestionJeu_0
+  - first:
+      213: 1519225414831798145
+    second: GestionJeu_1
+  - first:
+      213: 172825452868248821
+    second: GestionJeu_2
+  - first:
+      213: -1039615938663254795
+    second: GestionJeu_3
+  - first:
+      213: -6372006542547634601
+    second: GestionJeu_4
+  - first:
+      213: 8854315710356872649
+    second: GestionJeu_5
+  - first:
+      213: 2738417275116312442
+    second: GestionJeu_6
+  - first:
+      213: -3110084092060706350
+    second: GestionJeu_7
+  - first:
+      213: -6804295768293876141
+    second: GestionJeu_8
+  - first:
+      213: -9158205320076122288
+    second: GestionJeu_9
+  - first:
+      213: 3572521090264856049
+    second: GestionJeu_10
+  - first:
+      213: 8489588489229728973
+    second: GestionJeu_11
+  - first:
+      213: 4695060476128598253
+    second: GestionJeu_12
+  - first:
+      213: -7697363716718797859
+    second: GestionJeu_13
+  - first:
+      213: 3425389305156794161
+    second: GestionJeu_14
+  - first:
+      213: -621665511626730926
+    second: GestionJeu_15
+  - first:
+      213: -1497278773414729803
+    second: GestionJeu_16
+  - first:
+      213: 1993998964217112027
+    second: GestionJeu_17
+  - first:
+      213: -7250723012209327772
+    second: GestionJeu_18
+  - first:
+      213: 2418503959922439502
+    second: GestionJeu_19
+  - first:
+      213: -4263334291686435103
+    second: GestionJeu_20
+  - first:
+      213: 1159720737373235128
+    second: GestionJeu_21
+  - first:
+      213: -1183948243559003903
+    second: GestionJeu_22
+  - first:
+      213: -5454061204337434345
+    second: GestionJeu_23
+  - first:
+      213: 7883755593322124022
+    second: GestionJeu_24
+  - first:
+      213: 2968232439974629325
+    second: GestionJeu_25
+  - first:
+      213: -7132102700153456002
+    second: GestionJeu_26
+  - first:
+      213: -3475438081399733634
+    second: GestionJeu_27
+  - first:
+      213: -4819732580935267013
+    second: GestionJeu_28
+  - first:
+      213: 113058803403849287
+    second: GestionJeu_29
+  - first:
+      213: -3402710742797126071
+    second: GestionJeu_30
+  - first:
+      213: -5381259819359997447
+    second: GestionJeu_31
+  - first:
+      213: 1113846563093415209
+    second: GestionJeu_32
+  - first:
+      213: -8061022900932921577
+    second: GestionJeu_33
+  - first:
+      213: 8912667151599615886
+    second: GestionJeu_34
+  - first:
+      213: 2255489413801513512
+    second: GestionJeu_35
+  - first:
+      213: 7872929437152480201
+    second: GestionJeu_36
+  - first:
+      213: 2598705671556901851
+    second: GestionJeu_37
+  - first:
+      213: 8553312360962824737
+    second: GestionJeu_38
+  - first:
+      213: 1930305601259120469
+    second: GestionJeu_39
+  - first:
+      213: 975066949837807614
+    second: GestionJeu_40
+  - first:
+      213: -2685787523367603862
+    second: GestionJeu_41
+  - first:
+      213: -6132446146919783368
+    second: GestionJeu_42
+  - first:
+      213: 4972122171776061101
+    second: GestionJeu_43
+  - first:
+      213: 7365809411106838201
+    second: GestionJeu_44
+  - first:
+      213: -1972967138658180461
+    second: GestionJeu_45
+  - first:
+      213: -7730485440547727527
+    second: GestionJeu_46
+  - first:
+      213: -1127134346672811039
+    second: GestionJeu_47
+  - first:
+      213: -7524292498560614539
+    second: GestionJeu_48
+  - first:
+      213: -8154195918858314316
+    second: GestionJeu_49
+  - first:
+      213: -4171859091943582095
+    second: GestionJeu_50
+  - first:
+      213: -7915094003709926933
+    second: GestionJeu_51
+  - first:
+      213: -6128226309673872213
+    second: GestionJeu_52
+  - first:
+      213: -2257275402739331420
+    second: GestionJeu_53
+  - first:
+      213: -8881581790187513262
+    second: GestionJeu_54
+  - first:
+      213: -2270202105358317758
+    second: GestionJeu_55
+  - first:
+      213: -4200468317021869413
+    second: GestionJeu_56
+  - first:
+      213: -4774190996229831383
+    second: GestionJeu_57
+  - first:
+      213: 780839852925894572
+    second: GestionJeu_58
+  - first:
+      213: -5241316788134239457
+    second: GestionJeu_59
+  - first:
+      213: -7668454669375385041
+    second: GestionJeu_60
+  - first:
+      213: -8903788009097781808
+    second: GestionJeu_61
+  - first:
+      213: -8584043602875658071
+    second: GestionJeu_62
+  - first:
+      213: -3392394755765335902
+    second: GestionJeu_63
+  - first:
+      213: -8019627014931660122
+    second: GestionJeu_64
+  - first:
+      213: 3519219675666402130
+    second: GestionJeu_65
+  - first:
+      213: 4869772173187717842
+    second: GestionJeu_66
+  - first:
+      213: 6234447051501831776
+    second: GestionJeu_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GestionJeu_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 307
+        width: 1064
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ed02257055d970800000000000000
+      internalID: 8779011512641381181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 693
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877bc0377f551510800000000000000
+      internalID: 1519225414831798145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 630
+        width: 10
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ab5e65dff56200800000000000000
+      internalID: 172825452868248821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 685
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47429dfca8291f0800000000000000
+      internalID: -1039615938663254795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 691
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756bbf45fc51297a0800000000000000
+      internalID: -6372006542547634601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 648
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5bf4f939d0ea70800000000000000
+      internalID: 8854315710356872649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_6
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 309
+        width: 1031
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d912c000d00620800000000000000
+      internalID: 2738417275116312442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 689
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d0270ff2c6d4d0800000000000000
+      internalID: -3110084092060706350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_8
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 699
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e5628ac094291a0800000000000000
+      internalID: -6804295768293876141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_9
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 691
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05725cc98c487e080800000000000000
+      internalID: -9158205320076122288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_10
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 697
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5f3d9e005249130800000000000000
+      internalID: 3572521090264856049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_11
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 697
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc78cd40c311d570800000000000000
+      internalID: 8489588489229728973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_12
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 697
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de81f96a0a4382140800000000000000
+      internalID: 4695060476128598253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_13
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 693
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbdef56b787d2590800000000000000
+      internalID: -7697363716718797859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_14
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 695
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137fa4fac6d698f20800000000000000
+      internalID: 3425389305156794161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 698
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252906ac2866f57f0800000000000000
+      internalID: -621665511626730926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 675
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e1e473e8983be0800000000000000
+      internalID: -1497278773414729803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 665
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd568a84e7b1cab10800000000000000
+      internalID: 1993998964217112027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 675
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461438c16d1406b90800000000000000
+      internalID: -7250723012209327772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 659
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457d0ba980409120800000000000000
+      internalID: 2418503959922439502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_20
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d941cc0895d4c0800000000000000
+      internalID: -4263334291686435103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_21
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 369
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b729cdbdd7281010800000000000000
+      internalID: 1159720737373235128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_22
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 335
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109c7366855c19fe0800000000000000
+      internalID: -1183948243559003903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_23
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7116a344b384f44b0800000000000000
+      internalID: -5454061204337434345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 23
+        width: 358
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d6f331f9b86d60800000000000000
+      internalID: 7883755593322124022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf8a738da7413920800000000000000
+      internalID: 2968232439974629325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 25
+        width: 144
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7abfb7b16ea50d90800000000000000
+      internalID: -7132102700153456002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 17
+        width: 281
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72cd478a73c4cfc0800000000000000
+      internalID: -3475438081399733634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_28
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 202
+        width: 468
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0af0f0cedc1db0800000000000000
+      internalID: -4819732580935267013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_29
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 189
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74efd97f16aa19100800000000000000
+      internalID: 113058803403849287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_30
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 198
+        width: 514
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946fb269b9427c0d0800000000000000
+      internalID: -3402710742797126071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 106
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f6f694bce155b0800000000000000
+      internalID: -5381259819359997447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 95
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92509773c8d257f00800000000000000
+      internalID: 1113846563093415209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 23
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717ba97716e712090800000000000000
+      internalID: -8061022900932921577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_34
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 21
+        width: 462
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f33649d8720bb70800000000000000
+      internalID: 8912667151599615886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_35
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 7
+        width: 500
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8221b48fbab1d4f10800000000000000
+      internalID: 2255489413801513512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb803b4c93424d60800000000000000
+      internalID: 7872929437152480201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb21fc2a05701420800000000000000
+      internalID: 2598705671556901851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 63
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a9520664873b670800000000000000
+      internalID: 8553312360962824737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 77
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572ff697b2d9ca10800000000000000
+      internalID: 1930305601259120469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 81
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff5e498932288d00800000000000000
+      internalID: 975066949837807614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 79
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617f773a7a2abad0800000000000000
+      internalID: -2685787523367603862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_42
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 75
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83422a078bc25eaa0800000000000000
+      internalID: -6132446146919783368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_43
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae4e8495c6800540800000000000000
+      internalID: 4972122171776061101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 77
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6904832ac983660800000000000000
+      internalID: 7365809411106838201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 59
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a2c237dc9e94e0800000000000000
+      internalID: -1972967138658180461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_46
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957d2de137cc7b490800000000000000
+      internalID: -7730485440547727527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 75
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3dc64984d9b50f0800000000000000
+      internalID: -1127134346672811039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_48
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 73
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f782586d7549790800000000000000
+      internalID: -7524292498560614539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_49
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 79
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd928bb30a76de80800000000000000
+      internalID: -8154195918858314316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 54
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17618b362449a16c0800000000000000
+      internalID: -4171859091943582095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 71
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1ab0980ffe72290800000000000000
+      internalID: -7915094003709926933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_52
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 63
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba49facd3aa24faa0800000000000000
+      internalID: -6128226309673872213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 31
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aece731bfb8ca0e0800000000000000
+      internalID: -2257275402739331420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_54
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a9b402b684eb480800000000000000
+      internalID: -8881581790187513262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_55
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24706c5963f9e70e0800000000000000
+      internalID: -2270202105358317758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 61
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae0a91250f4b5c0800000000000000
+      internalID: -4200468317021869413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_57
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 45
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254adb659aaebdb0800000000000000
+      internalID: -4774190996229831383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbd1c85b916da00800000000000000
+      internalID: 780839852925894572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_59
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 47
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a7ff962a1347b0800000000000000
+      internalID: -5241316788134239457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_60
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 65
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d1bf7b1d249590800000000000000
+      internalID: -7668454669375385041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_61
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 46
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd1852eaf36f6480800000000000000
+      internalID: -8903788009097781808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_62
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 65
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0d12ac2d95fd880800000000000000
+      internalID: -8584043602875658071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 43
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a885bc71facbe0d0800000000000000
+      internalID: -3392394755765335902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_64
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24fdf38bf84b090800000000000000
+      internalID: -8019627014931660122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_65
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 15
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b49ae36a7c6d030800000000000000
+      internalID: 3519219675666402130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_66
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 17
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9fe78df7e49340800000000000000
+      internalID: 4869772173187717842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GestionJeu_67
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668fb3df84358650800000000000000
+      internalID: 6234447051501831776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GestionJeu_0: 8779011512641381181
+      GestionJeu_1: 1519225414831798145
+      GestionJeu_10: 3572521090264856049
+      GestionJeu_11: 8489588489229728973
+      GestionJeu_12: 4695060476128598253
+      GestionJeu_13: -7697363716718797859
+      GestionJeu_14: 3425389305156794161
+      GestionJeu_15: -621665511626730926
+      GestionJeu_16: -1497278773414729803
+      GestionJeu_17: 1993998964217112027
+      GestionJeu_18: -7250723012209327772
+      GestionJeu_19: 2418503959922439502
+      GestionJeu_2: 172825452868248821
+      GestionJeu_20: -4263334291686435103
+      GestionJeu_21: 1159720737373235128
+      GestionJeu_22: -1183948243559003903
+      GestionJeu_23: -5454061204337434345
+      GestionJeu_24: 7883755593322124022
+      GestionJeu_25: 2968232439974629325
+      GestionJeu_26: -7132102700153456002
+      GestionJeu_27: -3475438081399733634
+      GestionJeu_28: -4819732580935267013
+      GestionJeu_29: 113058803403849287
+      GestionJeu_3: -1039615938663254795
+      GestionJeu_30: -3402710742797126071
+      GestionJeu_31: -5381259819359997447
+      GestionJeu_32: 1113846563093415209
+      GestionJeu_33: -8061022900932921577
+      GestionJeu_34: 8912667151599615886
+      GestionJeu_35: 2255489413801513512
+      GestionJeu_36: 7872929437152480201
+      GestionJeu_37: 2598705671556901851
+      GestionJeu_38: 8553312360962824737
+      GestionJeu_39: 1930305601259120469
+      GestionJeu_4: -6372006542547634601
+      GestionJeu_40: 975066949837807614
+      GestionJeu_41: -2685787523367603862
+      GestionJeu_42: -6132446146919783368
+      GestionJeu_43: 4972122171776061101
+      GestionJeu_44: 7365809411106838201
+      GestionJeu_45: -1972967138658180461
+      GestionJeu_46: -7730485440547727527
+      GestionJeu_47: -1127134346672811039
+      GestionJeu_48: -7524292498560614539
+      GestionJeu_49: -8154195918858314316
+      GestionJeu_5: 8854315710356872649
+      GestionJeu_50: -4171859091943582095
+      GestionJeu_51: -7915094003709926933
+      GestionJeu_52: -6128226309673872213
+      GestionJeu_53: -2257275402739331420
+      GestionJeu_54: -8881581790187513262
+      GestionJeu_55: -2270202105358317758
+      GestionJeu_56: -4200468317021869413
+      GestionJeu_57: -4774190996229831383
+      GestionJeu_58: 780839852925894572
+      GestionJeu_59: -5241316788134239457
+      GestionJeu_6: 2738417275116312442
+      GestionJeu_60: -7668454669375385041
+      GestionJeu_61: -8903788009097781808
+      GestionJeu_62: -8584043602875658071
+      GestionJeu_63: -3392394755765335902
+      GestionJeu_64: -8019627014931660122
+      GestionJeu_65: 3519219675666402130
+      GestionJeu_66: 4869772173187717842
+      GestionJeu_67: 6234447051501831776
+      GestionJeu_7: -3110084092060706350
+      GestionJeu_8: -6804295768293876141
+      GestionJeu_9: -9158205320076122288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
